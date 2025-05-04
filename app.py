@@ -1,7 +1,3 @@
-#collaping upload section"
-#make correction on the recent test design on the initial one"
-
-
 
 import streamlit as st
 from io import BytesIO
